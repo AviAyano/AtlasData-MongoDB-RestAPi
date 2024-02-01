@@ -1,4 +1,4 @@
-# AtlasData-MongoDB-RestAPi-mongodb
+# AtlasData-MongoDB-RestAPi
 
 ![1](https://github.com/AviAyano/scripts/blob/master/datapi.png)
 
