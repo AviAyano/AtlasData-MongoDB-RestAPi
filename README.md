@@ -1,2 +1,5 @@
 # AtlasData-MongoDB-RestAPi-mongodb
-Atlas Data API is a fully managed REST-like API, to allow you to access your MongoDB Atlas data, and perform CRUD operations and aggregations with ease.
+(./datapi.png)
+Atlas Data API is a fully managed REST API. It allows to access MongoDB Atlas data and perform CRUD operations (Create, Read, Update, Delete) and aggregations with ease.
+
+For more info : https://www.mongodb.com/developer/products/atlas/atlas-data-api-introduction/
